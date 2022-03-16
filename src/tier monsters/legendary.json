@@ -1,0 +1,56 @@
+[
+  [
+    "Ancient Red Dragon",
+    {
+      "name": "Fire Blast",
+      "text": "The Ancient Dragon floods the room in a torrent of never ending fire. Survival is unlikely.",
+      "dmg": 250
+    },
+    "https://angrygolem-games.com/wp-content/uploads/2020/04/redragon.jpg"
+  ],
+  [
+      "Elder Brain",
+      {
+        "name": "Psishatter",
+        "text": "The Elder Brain sings in your mind as you drift into an ethereal nothingness...",
+        "dmg": 250
+      },
+      "https://www.gamersdecide.com/sites/default/files/authors/u149446/top-15-dnd-legendary-creatures-for-awesome-boss-fights-12.jpg"
+    ],
+  [
+      "Pit Fiend",
+      {
+        "name": "World Splitter",
+        "text": "The Pit Fiend cleaves the earth with such force it splits a chasm 100 meters deep",
+        "dmg": 250
+      },
+      "https://1.bp.blogspot.com/-5GDPblrb8_4/V-3pbEEsnqI/AAAAAAAATtM/fyNjKgVkTjAx1EiZ0-jfqxCUveYB_wQJACLcB/s1600/demon-7.jpg"
+    ],
+  [
+      "Lich",
+      {
+        "name": "Grotesque Masquerade",
+        "text": "A marching army of a thousand undead traverse the hill beyond...",
+        "dmg": 250
+      },
+      "https://www.wallpaperup.com/uploads/wallpapers/2014/03/27/311517/1a9dc57e0b4424f08a2622e45032f5dd.jpg"
+    ],
+  [
+      "Solar",
+      {
+        "name": "Heavenly Blast",
+        "text": "The Solar drives its sword through you, through the earth, through the universe...",
+        "dmg": 250
+      },
+      "https://static.wikia.nocookie.net/vsbattles/images/6/60/Jason-engle-solar-small.jpg/revision/latest?cb=20190820211711"
+    ],
+  [
+      "Wisdom Goblin",
+      {
+        "name": "Clever Ploy",
+        "text": "This is the most eloquent trap you have ever seen in your short life.",
+        "dmg": 250
+      },
+      "https://images.ctfassets.net/ryplwhabvmmk/Cm1NxfyQV2mmbnxQKhJSA/4a04eaa5e278ee68b01680874a8f96f6/1200x951-Muxus-Goblin-Grandee.jpg"
+    ]
+  ]

@@ -1,0 +1,191 @@
+[
+  [
+    "Air Elemental",
+    {
+      "name": "Whirlwind",
+      "text": "The Air Elemental slings a growing tornado that swallows you whole.",
+      "dmg": 54
+    },
+    "https://i.imgur.com/wyXepHu.jpg"
+  ],
+  [
+    "Barbed Devil",
+    {
+      "name": "Hurl Flame",
+      "text": "The Devil launches a napalm fireball that engulfs you in flames.",
+      "dmg": 54
+    },
+    "https://www.kindpng.com/picc/m/472-4720528_d-d-5e-barbed-devil-hd-png-download.png"
+  ],
+  [
+    "Bulette",
+    {
+      "name": "Deadly Leap",
+      "text": "The Bulette leaps into the air and lands on you with an earth shattering smash.",
+      "dmg": 54
+    },
+    "https://dmdave.com/wp-content/uploads/2018/09/bulette-village-eater-1.jpg"
+  ],
+  [
+    "Earth Elemental",
+    {
+      "name": "Graviton Slam",
+      "text": "Two rocks are summoned and swiftly collapsed, smashing you between them.",
+      "dmg": 54
+    },
+    "https://angrygolem-games.com/wp-content/uploads/2020/04/earthelemental.jpg"
+  ],
+  [
+    "Fire Elemental",
+    {
+      "name": "Fire Whirlwind",
+      "text": "It's a fire tornado. Obviously it really hurts.",
+      "dmg": 54
+    },
+    "https://cdn.inprnt.com/thumbs/6b/db/6bdb0780496827e41be1b2dd5a6ead23.jpg?response-cache-control=max-age=2628000"
+  ],
+  [
+    "Flesh Golem",
+    {
+      "name": "Desecrated",
+      "text": "The abomination grapples you, bleeding all matter of disease infested blood upon you.",
+      "dmg": 54
+    },
+    "https://static.wikia.nocookie.net/forgottenrealms/images/4/46/MadMaggie.jpg/revision/latest?cb=20191017091648"
+  ],
+  [
+    "Giant Crocodile",
+    {
+      "name": "Death Spin",
+      "text": "The Giant Crocodile snaps onto you and enters a death spiral with your remains.",
+      "dmg": 54
+    },
+    "https://static.wikia.nocookie.net/forgottenrealms/images/2/27/Crocodile.jpeg/revision/latest?cb=20190624075223"
+  ],
+  [
+    "Gorgon",
+    {
+      "name": "Gorgon",
+      "text": "And you thought it was a snake lady...",
+      "dmg": 54
+    },
+    "https://www.dndbeyond.com/avatars/thumbnails/0/355/1000/1000/636252778125099430.jpeg"
+  ],
+  [
+    "Hill Giant",
+    {
+      "name": "Giant Hurl",
+      "text": "The massive creature picks you up and launches you across the barren wasteland",
+      "dmg": 54
+    },
+    "https://www.dndbeyond.com/avatars/thumbnails/0/331/1000/1000/636252776196140305.jpeg"
+  ],
+  [
+    "Night Hag",
+    {
+      "name": "Nightmare Projection",
+      "text": "The Hag gets a cold bony finger onto your head, filling it with wretched unimaginable nightmares.",
+      "dmg": 54
+    },
+    "https://justkaywritesontheweb.files.wordpress.com/2019/04/bheur-hag.jpg"
+  ],
+  [
+    "Otyugh",
+    {
+      "name": "Tentacle Slam",
+      "text": "You are caught by the thousands of needles on the Otyugh tentacle and consequently slammed.",
+      "dmg": 54
+    },
+    "https://static.wikia.nocookie.net/forgottenrealms/images/2/25/Otyugh.jpg/revision/latest?cb=20110819102903"
+  ],
+  [
+    "Roper",
+    {
+      "name": "Reel",
+      "text": "The Roper whips a slimy tendril around you and pulls you into its gaping, tooth-filled maw.",
+      "dmg": 54
+    },
+    "https://static.wikia.nocookie.net/forgottenrealms/images/c/cb/Lurking_Roper_AFR.jpg/revision/latest/scale-to-width-down/250?cb=20210708065759"
+  ],
+  [
+    "Salamander",
+    {
+      "name": "Ignited Spear",
+      "text": "A spear is launched forward, slamming into your body and exploding in a ball of flames.",
+      "dmg": 54
+    },
+    "https://www.dndbeyond.com/avatars/thumbnails/0/173/1000/1000/636252761197608364.jpeg"
+  ],
+  [
+    "Shambling Mound",
+    {
+      "name": "Engulf",
+      "text": "You become one with nature. Literally.",
+      "dmg": 54
+    },
+    "https://www.dndbeyond.com/avatars/thumbnails/16/563/1000/1000/636376346968079714.jpeg"
+  ],
+  [
+    "Troll",
+    {
+      "name": "Devious Strike",
+      "text": "As you cut off the Troll's arm, a new arm instantly regenerates with even sharper claws.",
+      "dmg": 54
+    },
+    "https://angrygolem-games.com/wp-content/uploads/2021/04/troll.png"
+  ],
+  [
+    "Unicorn",
+    {
+      "name": "Gore",
+      "text": "The Unicorn charges you, impaling you upon its majestic horn.",
+      "dmg": 54
+    },
+    "https://64.media.tumblr.com/4b742cf52afe751c1f09622ee5f6d8c7/544c8c512e81417d-6a/s500x750/ab468beb686fe39517ff8cdb765a502d1fda0c2e.jpg"
+  ],
+  [
+    "Vampire Spawn",
+    {
+      "name": "Engorge Blood",
+      "text": "The Spawn bites into your neck, drawing your blood at 'breakneck' speed",
+      "dmg": 54
+    },
+    "https://angrygolem-games.com/wp-content/uploads/2021/04/vampire.jpg"
+  ],
+  [
+    "Water Elemental",
+    {
+      "name": "Hydro Funnel",
+      "text": "The floor is flooded and swiftly turns into a torrential maelstrom.",
+      "dmg": 54
+    },
+    "https://cdnb.artstation.com/p/assets/images/images/014/057/239/large/egor-grositskiy-collar-storm.jpg?1542268480&dl=1"
+  ],
+  [
+    "Werebear",
+    {
+      "name": "Devour",
+      "text": "The Werebear eats you. Literally eats you.",
+      "dmg": 54
+    },
+    "https://themagictavern.files.wordpress.com/2020/10/christian-quinot.png?w=1024"
+  ],
+  [
+    "Wraith",
+    {
+      "name": "Spectral Chains",
+      "text": "You become encased in hundreds of links of cool unbreakable spectral chains as the Wraith descends closer...",
+      "dmg": 54
+    },
+    "https://4.bp.blogspot.com/-ahEtD4zCLKI/VxOaWWxsYCI/AAAAAAAAGXk/Rdy3mqZJvaQCwZ76Wej_x1ZYgo6Vhx4swCLcB/s400/8fb0382956ae3d89d04d7d96febddb1a.jpg"
+  ],
+  [
+    "Xorn",
+    {
+      "name": "Stealth Maw",
+      "text": "You take a step across a rocky chasm, only to fall into the waiting mouth of a flesh hungry Xorn.",
+      "dmg": 54
+    },
+    "https://static.wikia.nocookie.net/forgottenrealms/images/a/a0/Xorn4e.jpg/revision/latest?cb=20190815151559"
+  ]
+]

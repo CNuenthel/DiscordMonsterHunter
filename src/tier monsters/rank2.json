@@ -1,0 +1,344 @@
+[
+  [
+    "Ankheg",
+    {
+      "name": "Mandible Crush",
+      "text": "The Ankheg chitters as you are crushed between two giant mandible pincers.",
+      "dmg": 24
+    },
+    "https://i2.wp.com/dmdave.com/wp-content/uploads/2018/08/stonejaw-ankheg-4217721008-1535079732226.jpg?fit=500%2C281&ssl=1"
+  ],
+  [
+    "Awakened Tree",
+    {
+      "name": "Awakened Blight",
+      "text": "A storm of spores are released from the Awakened Tree that is corrosive to your flesh.",
+      "dmg": 24
+    },
+    "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2020/06/treant-daddy-Cropped-1.jpg?q=50&fit=contain&w=767&h=404&dpr=1.5"
+  ],
+  [
+    "Azer",
+    {
+      "name": "Volcanic Forge",
+      "text": "You are crushed by a superheated forgehammer, the broken bones dwarfed only by your incindiary wounds.",
+      "dmg": 24
+    },
+    "https://i.ytimg.com/vi/nFK02sd5QN8/maxresdefault.jpg"
+  ],
+  [
+    "Bandit Captain",
+    {
+      "name": "Mugging",
+      "text": "What needs to be said? The Bandit Lord beats you up good.",
+      "dmg": 24
+    },
+    "https://www.dndbeyond.com/avatars/thumbnails/0/99/1000/1000/636252741335519081.jpeg"
+  ],
+  [
+    "Berserker",
+    {
+      "name": "Berserk",
+      "text": "The Berserker explodes in a bloodthirsty fury, cleaving flesh from bone in a storm of attacks.",
+      "dmg": 24
+    },
+    "https://www.dmsguild.com/images/8957/225689.jpg"
+  ],
+  [
+    "Black Dragon Wyrmling",
+    {
+      "name": "Venom Spray",
+      "text": "The Wyrmling rears back and releases a shower of venom breath over you.",
+      "dmg": 24
+    },
+    "https://www.dndbeyond.com/avatars/thumbnails/16/496/1000/1000/636376308217017511.jpeg"
+  ],
+  [
+    "Bronze Dragon Wyrmling",
+    {
+      "name": "Tail Slam",
+      "text": "The Wyrmling trips you and smashes in your chest with a powerful tail slam.",
+      "dmg": 24
+    },
+    "https://www.dndbeyond.com/avatars/thumbnails/16/492/1000/1000/636376306909593829.jpeg"
+  ],
+  [
+    "Centaur",
+    {
+      "name": "Bolt Shot",
+      "text": "The Centaur takes a flank and launches bolt after bolt into your armor.",
+      "dmg": 24
+    },
+    "https://www.dndbeyond.com/avatars/thumbnails/0/227/1000/1000/636252765573266420.jpeg"
+  ],
+  [
+    "Cult Fanatic",
+    {
+      "name": "Blood Magic",
+      "text": "The Fanatic slices their flesh with a curved dagger and swiftly sends spikes of magic blood into your shoulder.",
+      "dmg": 24
+    },
+    "https://4.bp.blogspot.com/-lC4IwGkJhMI/WRxshcYHWiI/AAAAAAAACQU/OoW0diO-9MsSqw25MvwW8yvJdEA9fk1aQCLcB/s1600/2017-05-17%2B11_28_35-5e%2BMonster%2BManual.pdf%2B-%2BAdobe%2BAcrobat%2BReader%2BDC.png"
+  ],
+  [
+    "Druid",
+    {
+      "name": "Call Of Nature",
+      "text": "The Druid summons the denizens of the forest to rend your flesh, slash your legs, chew on your skin.",
+      "dmg": 24
+    },
+    "https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/f/f0/Druid.jpg/revision/latest?cb=20190527134643"
+  ],
+  [
+    "Ettercap",
+    {
+      "name": "Bog Trap",
+      "text": "You stumble over a bog trap as the Ettercap launches out and sinks two razor sharp fangs into your leg.",
+      "dmg": 24
+    },
+    "https://www.dndbeyond.com/avatars/thumbnails/0/339/1000/1000/636252776771842998.jpeg"
+  ],
+  [
+    "Gargoyle",
+    {
+      "name": "Ambush",
+      "text": "The Gargoyle springs from a derelict stoop and surprises you with a powerful slash.",
+      "dmg": 24
+    },
+    "https://www.dungeonsolvers.com/wp-content/uploads/2019/01/gargoyle_greebo_by_albe75_d824tj4-pre.jpg"
+  ],
+  [
+    "Gelatinous Cube",
+    {
+      "name": "Consume",
+      "text": "You are engulfed by the Cube, the pain is insurmountable as you are slowly digested.",
+      "dmg": 24
+    },
+    "https://oldschoolroleplaying.com/wp-content/uploads/2019/07/gel-cube-two.jpg"
+  ],
+  [
+    "Ghast",
+    {
+      "name": "Unholy Grapple",
+      "text": "The Ghast clings to you, ripping away at flesh with teeth, claw, and bone.",
+      "dmg": 24
+    },
+    "https://www.dndbeyond.com/avatars/thumbnails/0/411/286/315/636252786516023032.jpeg"
+  ],
+  [
+    "Giant Boar",
+    {
+      "name": "Charge",
+      "text": "The Boar charges you, goring you with over-sized tusks.",
+      "dmg": 24
+    },
+    "https://static.wikia.nocookie.net/heroes-of-camelot/images/d/dd/Giant_Boar.jpg/revision/latest/top-crop/width/360/height/450?cb=20140209091852"
+  ],
+  [
+    "Giant Constrictor Snake",
+    {
+      "name": "Constrict",
+      "text": "You become entangled as your living trap becomes tighter and tighter.",
+      "dmg": 24
+    },
+    "https://www.epicpath.org/images/thumb/c/c2/Giant_Constrictor_Snake_1.jpg/600px-Giant_Constrictor_Snake_1.jpg"
+  ],
+  [
+    "Gibbering Mouther",
+    {
+      "name": "Piercing Wale",
+      "text": "A grotesque and otherwordly screech pierces your ears",
+      "dmg": 24
+    },
+    "https://www.dndbeyond.com/avatars/thumbnails/0/333/1000/1000/636252776252001529.jpeg"
+  ],
+  [
+    "Green Dragon Wyrmling",
+    {
+      "name": "Venom Spray",
+      "text": "The Wyrmling rears back and releases a shower of venom breath over you.",
+      "dmg": 24
+    },
+    "https://www.scabard.com/user/AllTheBoys/image/Hatchling,%20Green.jpg"
+  ],
+  [
+    "Grick",
+    {
+      "name": "Tentacle Wrap",
+      "text": "The Grick grabs hold of you with four powerful tentacles and gnashes at your chest",
+      "dmg": 24
+    },
+    "https://www.dndbeyond.com/avatars/thumbnails/0/369/1000/1000/636252779341924439.jpeg"
+  ],
+  [
+    "Griffon",
+    {
+      "name": "Aerial Sweep",
+      "text": "The Griffon swoops down at blinding speed and slashes you with razor sharp talons",
+      "dmg": 24
+    },
+    "https://static.fandomspot.com/images/11/10129/00-featured-snow-griffin-polymorph-painting-artwork.jpg"
+  ],
+  [
+    "Hunter Shark",
+    {
+      "name": "Hunter Shark",
+      "text": "Within the pool of blood, the Hunter Shark is king.",
+      "dmg": 24
+    },
+    "https://i.pinimg.com/originals/50/1b/aa/501baa25b948fa323f60ede35deab96b.jpg"
+  ],
+  [
+    "Merrow",
+    {
+      "name": "Spear",
+      "text": "The blood in the water grows thick as you receive a spear into your chest.",
+      "dmg": 24
+    },
+    "https://www.dndbeyond.com/avatars/thumbnails/0/203/1000/1000/636252764097970952.jpeg"
+  ],
+  [
+    "Mimic",
+    {
+      "name": "Mimic",
+      "text": "That wasn't a chest. This isn't treasure.",
+      "dmg": 24
+    },
+    "https://i.pinimg.com/originals/6b/6a/24/6b6a2416d68b7e60fd311bd541c0c345.jpg"
+  ],
+  [
+    "Minotaur Skeleton",
+    {
+      "name": "Gore Assault",
+      "text": "If the real thing wasn't powerful enough, the skeleton version holds an unearthly power as you already know.",
+      "dmg": 24
+    },
+    "https://www.dndbeyond.com/avatars/thumbnails/16/480/1000/1000/636376298435934058.jpeg"
+  ],
+  [
+    "Ochre Jelly",
+    {
+      "name": "Corrosive Spit",
+      "text": "The Ochre slings a mucousy material that swiftly burns through armor and flesh",
+      "dmg": 24
+    },
+    "https://www.dndbeyond.com/avatars/thumbnails/0/279/1000/1000/636252770058723674.jpeg"
+  ],
+  [
+    "Ogre",
+    {
+      "name": "Ogre Smash",
+      "text": "The giant club was real hardwood. And it hurt.",
+      "dmg": 24
+    },
+    "https://static.wikia.nocookie.net/forgottenrealms/images/3/36/Monster_Manual_5e_-_Ogre_-_p237.jpg/revision/latest?cb=20190605124429"
+  ],
+  [
+    "Ogre Zombie",
+    {
+      "name": "Undead Ogre Smash",
+      "text": "The giant club is also undead. And it hurts.",
+      "dmg": 24
+    },
+    "https://www.dndbeyond.com/avatars/thumbnails/0/287/1000/1000/636252770700032248.jpeg"
+  ],
+  [
+    "Pegasus",
+    {
+      "name": "Trample",
+      "text": "The Pegasus slams down on you from the sky, smashing you with diamond hooves",
+      "dmg": 24
+    },
+    "https://i.pinimg.com/originals/cd/fe/32/cdfe32d266eda15f3400939fe21a7ea2.jpg"
+  ],
+  [
+    "Plesiosaurus",
+    {
+      "name": "Water Jet",
+      "text": "A piercing bullet of water runs through you shoulder and explodes a boulder behind you.",
+      "dmg": 24
+    },
+    "https://www.dndbeyond.com/avatars/thumbnails/16/488/1000/1000/636376304583147024.jpeg"
+  ],
+  [
+    "Rhino",
+    {
+      "name": "Blind Charge",
+      "text": "The Rhino charges, unfettered by all objects between you.",
+      "dmg": 24
+    },
+    "https://static.wikia.nocookie.net/dungeonsdragons/images/c/c6/Dire_Rhinoceros.jpg/revision/latest?cb=20110502061858"
+  ],
+  [
+    "Rug Of Smothering",
+    {
+      "name": "Smother",
+      "text": "The rug smothers you, obviously.",
+      "dmg": 24
+    },
+    "https://www.dndbeyond.com/avatars/thumbnails/0/213/1000/1000/636252764761726261.jpeg"
+  ],
+  [
+    "Saber Toothed Tiger",
+    {
+      "name": "Pounce",
+      "text": "If it's not the claws, its the teeth. Oh god its the teeth.",
+      "dmg": 24
+    },
+    "https://static.wikia.nocookie.net/forgottenrealms/images/e/e2/Saber-toothed_tiger-3e.jpg/revision/latest?cb=20200908031311"
+  ],
+  [
+    "Sea Hag",
+    {
+      "name": "Wretched Spell",
+      "text": "The Hag mutters as you feel your insides twist.",
+      "dmg": 24
+    },
+    "https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/07-02.png"
+  ],
+  [
+    "Silver Dragon Wyrmling",
+    {
+      "name": "Plasma Spray",
+      "text": "The Wyrmling rears back and sprays you with superheated plasma.",
+      "dmg": 24
+    },
+    "https://db4sgowjqfwig.cloudfront.net/campaigns/154487/assets/714404/White_03.jpg?1490050335"
+  ],
+  [
+    "Swarm Of Poisonous Snakes",
+    {
+      "name": "Venomous Frenzy",
+      "text": "The swarm quickly descends on you, bite after bite, you feel your flesh decay.",
+      "dmg": 24
+    },
+    "https://i.pinimg.com/736x/5b/ea/97/5bea979680bc6572ad5bdd7059fcf258--creature-feature-creature-design.jpg"
+  ],
+  [
+    "Wererat",
+    {
+      "name": "Infected Bite",
+      "text": "The Wererat bites you... you feel a strange affinity for the full moon.",
+      "dmg": 24
+    },
+    "http://bal-kriav.appspot.com/images/races/wererat.png"
+  ],
+  [
+    "White Dragon Wyrmling",
+    {
+      "name": "Shock Spray",
+      "text": "The Wyrmling clamps on to you as you feel 50,000 volts course through your body.",
+      "dmg": 24
+    },
+    "https://i.pinimg.com/originals/92/d6/59/92d65919fab5d9f7d02343f3170e414f.jpg"
+  ],
+  [
+    "Will O Wisp",
+    {
+      "name": "Trap",
+      "text": "You chase the wisp, unsuspecting a pit filled with spikes beneath you.",
+      "dmg": 24
+    },
+    "https://www.dndbeyond.com/avatars/thumbnails/16/585/1000/1000/636376363763232290.jpeg"
+  ]
+]

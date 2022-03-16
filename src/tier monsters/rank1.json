@@ -1,0 +1,182 @@
+[
+  [
+    "Animated Armor",
+    {
+      "name": "Slam",
+      "text": "The animated armor raises a greatsword above its helmet and slams it down upon your head!",
+      "dmg": 14
+    },
+    "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2020/01/Animated-Armor.jpg?q=50&fit=crop&w=1000&dpr=1.5"
+  ],
+  [
+    "Brass Dragon Wyrmling",
+    {
+      "name": "Fire Breath",
+      "text": "The wyrmling rears back and releases a giant ball of flame around you!",
+      "dmg": 14
+    },
+    "https://www.scabard.com/user/mikeoregan/image/dragon_wyrmling_copper.jpg"
+  ],
+  [
+    "Brown Bear",
+    {
+      "name": "Bite",
+      "text": "The brown bear lunges forward and bites into your neck!",
+      "dmg": 14
+    },
+    "https://i.pinimg.com/originals/6d/28/00/6d28001be1e7052ae2e28e9bf405ff0a.jpg"
+  ],
+  [
+    "Bugbear",
+    {
+      "name": "Morningstar",
+      "text": "The Bugbear sucker punches your face with the business end of a mace!",
+      "dmg": 14
+    },
+    "https://static.wikia.nocookie.net/forgottenrealms/images/a/ad/Bugbear_-_Wayne_Reynolds.jpg/revision/latest?cb=20070317060347"
+  ],
+  [
+    "Death Dog",
+    {
+      "name": "Double Bite",
+      "text": "The only thing worse than rabies is rabies twice.",
+      "dmg": 14
+    },
+    "https://www.dndbeyond.com/avatars/thumbnails/0/265/1000/1000/636252768823194310.jpeg"
+  ],
+  [
+    "Dire Wolf",
+    {
+      "name": "Rend",
+      "text": "The Dire Wolf captures your arm and viciously rips away at it's flesh!",
+      "dmg": 14
+    },
+    "https://awoiaf.westeros.org/images/3/33/Carlos_Palma_Cruchaga_Direwolf.png"
+  ],
+  [
+    "Dryad",
+    {
+      "name": "Entangle",
+      "text": "A brush turns into a choking thistle wrapping around your neck!",
+      "dmg": 14
+    },
+    "https://i.imgur.com/TV3Komu.jpg"
+  ],
+  [
+    "Duergar",
+    {
+      "name": "War Pick",
+      "text": "The Duergar slams a war pick deep into your shoulder, attempting to unsheath the gold beneath!",
+      "dmg": 14
+    },
+    "https://i1.wp.com/nerdarchy.com/wp-content/uploads/2014/12/Duergarwarrior.jpg?ssl=1"
+  ],
+  [
+    "Ghoul",
+    {
+      "name": "Claws",
+      "text": "The Ghoul digs razor sharp claws deep into your ribs, blood drips down from your breastplate!",
+      "dmg": 14
+    },
+    "https://images.squarespace-cdn.com/content/v1/5dadaf88e03a4e6bb69307dd/1608315101943-6S79HWN63FWORF2GMLJP/Ghoul%2B5e.jpg?format=1500w"
+  ],
+  [
+    "Giant Eagle",
+    {
+      "name": "Swoop",
+      "text": "A Giant Eagle dives at you from the cliffs and sweeps you with razor talons!",
+      "dmg": 14
+    },
+    "https://i.pinimg.com/564x/17/60/6d/17606dd001dbc0355d53bdc1bde1cb4b.jpg"
+  ],
+  [
+    "Giant Hyena",
+    {
+      "name": "Pack Assault",
+      "text": "A pack of Hyenas lead by the Giant Hyena descends upon you from the brushes, gnawing and clawing at your flesh!",
+      "dmg": 14
+    },
+    "https://static.wikia.nocookie.net/forgottenrealms/images/8/8d/Hyena_4e.jpg/revision/latest?cb=20200311072705"
+  ],
+  [
+    "Giant Spider",
+    {
+      "name": "Venomous Sting",
+      "text": "The Giant Spider grapples you, instantly sinking in a pair of venomous fangs!",
+      "dmg": 14
+    },
+    "https://angrygolem-games.com/wp-content/uploads/2021/03/giant-spider.jpg"
+  ],
+  [
+    "Giant Toad",
+    {
+      "name": "Body Slam",
+      "text": "With a massive leap, the Giant Toad slams down on top of you!",
+      "dmg": 14
+    },
+    "https://64.media.tumblr.com/f1fb582410b627a422ad9816b4c5cba3/tumblr_inline_opv1axn21Z1rqrjnu_540.jpg"
+  ],
+  [
+    "Giant Vulture",
+    {
+      "name": "Beaktear",
+      "text": "You feel a powerful wing smash across your back as a razor beak slashes at your neck!",
+      "dmg": 14
+    },
+    "https://db4sgowjqfwig.cloudfront.net/campaigns/169345/assets/1000461/Giant_Vulture.jpg?1567274223"
+  ],
+  [
+    "Harpy",
+    {
+      "name": "Wing Whip",
+      "text": "Like a streak of lightning the Harpy swoops down and slashes you with a razor sharp wing talon",
+      "dmg": 14
+    },
+    "https://www.dndbeyond.com/avatars/thumbnails/0/391/1000/1000/636252781955908234.jpeg"
+  ],
+  [
+    "Hippogriff",
+    {
+      "name": "Aerial Plunge",
+      "text": "The Hippogriff grapples you and takes flight, crushing your body from a hundred meter fall!",
+      "dmg": 14
+    },
+    "https://www.dndbeyond.com/avatars/thumbnails/0/335/1000/1000/636252776578605778.jpeg"
+  ],
+  [
+    "Imp",
+    {
+      "name": "Hellbolt",
+      "text": "The Imp summons a fiery bolt and throws it, striking you deftly in the shoulder!",
+      "dmg": 14
+    },
+    "https://www.dndbeyond.com/avatars/thumbnails/0/361/234/315/636252778560366227.jpeg"
+  ],
+  [
+    "Quasit",
+    {
+      "name": "Wretched Bite",
+      "text": "The Quasit sneaks into your armor, tearing bits of flesh as it travels!",
+      "dmg": 14
+    },
+    "https://www.dndbeyond.com/avatars/thumbnails/0/271/1000/1000/636252769318699115.jpeg"
+    ],
+  [
+    "Spectre",
+    {
+      "name": "Ethereal Drift",
+      "text": "The Spectre points a bony finger at you as wisps arise and pull at your soul!",
+      "dmg": 14
+    },
+    "https://angrygolem-games.com/wp-content/uploads/2020/09/specter.jpg"
+  ],
+  [
+    "Hippogriff",
+    {
+      "name": "Aerial Plunge",
+      "text": "The Hippogriff grapples you and takes flight, crushing your body from a hundred meter fall!",
+      "dmg": 14
+    },
+    "https://www.dndbeyond.com/avatars/thumbnails/0/335/1000/1000/636252776578605778.jpeg"
+    ]
+]

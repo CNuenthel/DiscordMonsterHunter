@@ -1,0 +1,29 @@
+[
+  [
+    "Kraken",
+    {
+      "name": "10000 Megaton Slam",
+      "text": "The Kraken slams down its tentacles in an endless barrage, shifting the landscape for aeons to come.",
+      "dmg": 200
+    },
+    "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/23041954/e800b3a6941ad59b3c4d9bf6ef8904932154c710.png"
+  ],
+  [
+    "Tarrasque",
+    {
+      "name": "Transdimensional Obliteration",
+      "text": "Your mind and body warp and twist as the Tarrasque tears you apart through every dimension.",
+      "dmg": 200
+    },
+    "https://i.ibb.co/GTgY6by/0000.jpg"
+  ],
+  [
+    "Amygdalia",
+    {
+      "name": "Cerebrum Diruo",
+      "text": "Steel yourself, this pain is minimal for what's to come.",
+      "dmg": 200
+    },
+    "https://i.pinimg.com/originals/85/eb/bf/85ebbf7a097bee8f4c76ee5f73c59fbc.jpg"
+  ]
+]

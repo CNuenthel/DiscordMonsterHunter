@@ -1,0 +1,92 @@
+[
+  [
+    "Black Pudding",
+    {
+      "name": "Collapse",
+      "text": "The Pudding engulfs you and crushes you in a dark abyss.",
+      "dmg": 44
+    },
+    "https://angrygolem-games.com/wp-content/uploads/2020/12/black-pudding.jpg"
+  ],
+  [
+    "Chuul",
+    {
+      "name": "Chittering Snap",
+      "text": "The Chuul grapples you and voraciously tears away at your flesh with it's pincers.",
+      "dmg": 44
+    },
+    "https://i1.wp.com/dmdave.com/wp-content/uploads/2018/11/chuul.jpg?fit=800%2C450&ssl=1"
+  ],
+  [
+    "Couatl",
+    {
+      "name": "Psychic Intrusion",
+      "text": "You feel an erie interruption in your mind, right before the immense pain.",
+      "dmg": 44
+    },
+    "https://i.pinimg.com/originals/18/7b/12/187b123b7b07899ae60238d637654f75.jpg"
+  ],
+  [
+    "Ettin",
+    {
+      "name": "Double The Fun",
+      "text": "It wasn't the first club that got you. It was the second one.",
+      "dmg": 44
+    },
+    "https://www.dndbeyond.com/avatars/thumbnails/0/341/1000/1000/636252776953634777.jpeg"
+  ],
+  [
+    "Ghost",
+    {
+      "name": "Dimensional Shriek",
+      "text": "The Ghost slips from the physical plane with an ear-shattering shriek.",
+      "dmg": 44
+    },
+    "https://www.dndbeyond.com/avatars/thumbnails/0/413/1000/1000/636252786639798307.jpeg"
+  ],
+  [
+    "Lamia",
+    {
+      "name": "Fear Inocculum",
+      "text": "Before you can mentally understand the creature before you, you feel a blade sink deep into your flesh.",
+      "dmg": 44
+    },
+    "https://i.pinimg.com/originals/fb/81/ff/fb81ffb67ae50985df414277d58f8102.png"
+  ],
+  [
+    "Red Dragon Wyrmling",
+    {
+      "name": "Incinerate",
+      "text": "The Wyrmling rears back and fires a jet of concentrated fire about you.",
+      "dmg": 44
+    },
+    "https://i.pinimg.com/564x/d8/3b/c4/d83bc4b94a6ee53361e70230788e6145.jpg"
+  ],
+  [
+    "Succubus",
+    {
+      "name": "Mesmerize",
+      "text": "You think it is a good idea to run your blade across your neck...",
+      "dmg": 44
+    },
+    "https://static.wikia.nocookie.net/fenar/images/0/0d/Succubus.jpg/revision/latest/scale-to-width-down/570?cb=20200813133636"
+  ],
+  [
+    "Wereboar",
+    {
+      "name": "Obliterate",
+      "text": "You blocked the hammer, but not the boar.",
+      "dmg": 44
+    },
+    "https://www.dndbeyond.com/avatars/thumbnails/0/80/1000/1000/636252735506840152.jpeg"
+  ],
+  [
+    "Weretiger",
+    {
+      "name": "Blades and Claws",
+      "text": "You are attacked in a blinding flash, you block the daggers, but not the teeth... or the claws.",
+      "dmg": 44
+    },
+    "https://dmdave.com/wp-content/uploads/2019/01/weretiger-shawn-ye.jpg"
+  ]
+]

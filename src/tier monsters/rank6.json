@@ -1,0 +1,137 @@
+[
+  [
+    "Chimera",
+    {
+      "name": "Eldritch Slam",
+      "text": "While the Tigers head holds you down, the Rams head pummels you mercilessly",
+      "dmg": 64
+    },
+    "https://www.dndbeyond.com/avatars/thumbnails/0/237/1000/1000/636252766770156389.jpeg"
+  ],
+  [
+    "Drider",
+    {
+      "name": "Onslaught",
+      "text": "A casted fireball, A sword to the chest, and the puncturing wounds of spider legs, all instantaneously.",
+      "dmg": 64
+    },
+    "https://dungeonsolvers.com/wp-content/uploads/2018/07/f44e5cd6df97ed2162beac8a3661bb09.jpg"
+  ],
+  [
+    "Invisible Stalker",
+    {
+      "name": "Ghostly Ambush",
+      "text": "You don't know what it was, but you do know it is your blood.",
+      "dmg": 64
+    },
+    "https://static.wikia.nocookie.net/the-hanged-three/images/4/4f/Invisible_Stalker.png/revision/latest?cb=20200509191021"
+  ],
+  [
+    "Mammoth",
+    {
+      "name": "Crush",
+      "text": "Never fight under a mammoth. Moreso under a mammoth's foot.",
+      "dmg": 64
+    },
+    "https://cdnb.artstation.com/p/assets/images/images/014/997/745/large/shoz-art-elephant2.jpg?1546638666&dl=1"
+  ],
+  [
+    "Vrock",
+    {
+      "name": "Demonic Claw",
+      "text": "The Vrock swoops, its claws peel through flesh as if it was water.",
+      "dmg": 64
+    },
+    "https://i.imgur.com/pU6FMFv.jpg"
+  ],
+  [
+    "Wyvern",
+    {
+      "name": "Fire Twister",
+      "text": "The Wyvern launches a fireball, swiftly splitting it in two and with a burst from its wings launches you in two whirling firestorms.",
+      "dmg": 64
+    },
+    "https://cdna.artstation.com/p/assets/images/images/013/463/234/large/edgar-gomez-the-great-wyvern.jpg?1539709360&dl=1"
+  ],
+  [
+    "Oni",
+    {
+      "name": "Glaive",
+      "text": "The Oni transforms an arm into a massive glaive, sweeping it across your neck.",
+      "dmg": 64
+    },
+    "https://i.pinimg.com/736x/6d/0f/64/6d0f644f4d7720109e00340279923a80.jpg"
+  ],
+  [
+    "Shield Guardian",
+    {
+      "name": "Indestructible",
+      "text": "The Warforged monster reaches for your arm while accidentally snapping your leg.",
+      "dmg": 64
+    },
+    "https://i.pinimg.com/originals/bb/8c/96/bb8c964e8efcc207d5962d23b7adc758.png"
+  ],
+  [
+    "Stone Giant",
+    {
+      "name": "Trebuchet",
+      "text": "Seemingly from across the world, A boulder is thrown with exact precision, obliterating your body.",
+      "dmg": 64
+    },
+    "https://static.wikia.nocookie.net/criticalrole/images/1/17/Giant-Stone.jpg/revision/latest?cb=20180628105351"
+  ],
+  [
+    "Chain Devil",
+    {
+      "name": "Binding",
+      "text": "You feel snakelike chains begin to swarm your body, unable to fend them off before you are crushed.",
+      "dmg": 64
+    },
+    "https://i.pinimg.com/originals/86/cc/b6/86ccb6132b4735be517f951704fc3fc7.jpg"
+  ],
+  [
+    "Cloaker",
+    {
+      "name": "Phantasms",
+      "text": "Three Cloakers appear before you, unable to track the real Cloaker, you quickly succumb to its wretched psychic howels.",
+      "dmg": 64
+    },
+    "https://i.pinimg.com/736x/8f/40/cb/8f40cb4b73403ff8ec081ab90e0f14f0--creature-fantasy-fantasy-beasts.jpg"
+  ],
+  [
+    "Frost Giant",
+    {
+      "name": "Frozen Slam",
+      "text": "The Frost Giant picks you up and slams you onto the ground. It wasn't hard.",
+      "dmg": 64
+    },
+    "https://cdna.artstation.com/p/assets/images/images/027/353/664/large/manthos-lappas-frost-giant-png.jpg?1591288390&dl=1"
+  ],
+  [
+    "Hezrou",
+    {
+      "name": "Stench",
+      "text": "The odor of death permeates from this creature; so unbearable you are unable to keep your countenance.",
+      "dmg": 64
+    },
+    "https://angrygolem-games.com/wp-content/uploads/2021/05/hezrou.jpg"
+  ],
+  [
+    "Hydra",
+    {
+      "name": "Duplicate",
+      "text": "200 heads down, 400 still attacking.",
+      "dmg": 64
+    },
+    "https://angrygolem-games.com/wp-content/uploads/2020/08/Hydra.jpg"
+  ],
+  [
+    "Spirit Naga",
+    {
+      "name": "Venomous Spray",
+      "text": "The Naga takes a bite of your leg, as the creature releases you see the not even the massive wound could contain this amount of venom.",
+      "dmg": 64
+    },
+    "https://www.dndbeyond.com/avatars/thumbnails/0/117/1000/1000/636252746851035686.jpeg"
+  ]
+]

@@ -1,0 +1,155 @@
+[
+  [
+    "Basilisk",
+    {
+      "name": "Petrifying Gaze",
+      "text": "Try as you might, you have met the gaze of the Basilisk as your feet turn rigid.",
+      "dmg": 34
+    },
+    "https://dmdave.com/wp-content/uploads/2018/08/megabasil-2557734345-1535345790416.jpg"
+  ],
+  [
+    "Bearded Devil",
+    {
+      "name": "Devilish Whip",
+      "text": "The Devil lashes you with a giant whip studded in razor sharp spines.",
+      "dmg": 34
+    },
+    "https://www.belloflostsouls.net/wp-content/uploads/2019/07/bearded-devil-4e.jpg"
+  ],
+  [
+    "Blue Dragon Wyrmling",
+    {
+      "name": "Ice Shatter",
+      "text": "The Wyrmling rears back and fires a storm of ice shards over you.",
+      "dmg": 34
+    },
+    "https://static.wikia.nocookie.net/forgottenrealms/images/8/87/Blue_dragon_Wyrmling.jpg/revision/latest/scale-to-width-down/200?cb=20210711113826"
+  ],
+  [
+    "Doppelganger",
+    {
+      "name": "Self Inflicted",
+      "text": "You stab yourself in the stomach with your own weapon... or is it you?",
+      "dmg": 34
+    },
+    "https://www.dndbeyond.com/avatars/thumbnails/0/289/1000/1000/636252770983164351.jpeg"
+  ],
+  [
+    "Giant Scorpion",
+    {
+      "name": "Impaling Sting",
+      "text": "Gods, it stings, by the gods it stings. Why does such a creature exist?!",
+      "dmg": 34
+    },
+    "https://i.pinimg.com/600x315/60/28/f5/6028f5df74830c10e1b298ee8bb8855c.jpg"
+  ],
+  [
+    "Gold Dragon Wyrmling",
+    {
+      "name": "Wyrm Slash",
+      "text": "The Wyrmling sprints to you, grasping you with razor sharp wing talons, and rends your body with claws and teeth.",
+      "dmg": 34
+    },
+    "http://www.greyhawkcompanion.com/uploads/1/3/2/6/132673076/marishka-kleyman-giltias_orig.jpg"
+  ],
+  [
+    "Green Hag",
+    {
+      "name": "Backstab",
+      "text": "You feel the sharp end of a kris dagger sink into your spine.",
+      "dmg": 34
+    },
+    "https://www.dndbeyond.com/avatars/thumbnails/0/365/1000/1000/636252778948574879.jpeg"
+  ],
+  [
+    "Hell Hound",
+    {
+      "name": "Hell Hound",
+      "text": "The only thing worse than the bite you just received is the involuntary cauterization that followed.",
+      "dmg": 34
+    },
+    "https://i.redd.it/canatwlhig351.jpg"
+  ],
+  [
+    "Death Knight",
+    {
+      "name": "Life Sap",
+      "text": "The Death Knight raises an ethereal tentacle that entangles your leg and saps your living essence.",
+      "dmg": 34
+    },
+    "https://s3.amazonaws.com/sky2/builds/431945/4521.jpg"
+  ],
+  [
+    "Manticore",
+    {
+      "name": "Tri Assault",
+      "text": "The Manticore pounces; with jaws around your neck you feel the sting of a needle enter your shoulder.",
+      "dmg": 34
+    },
+    "https://static.wikia.nocookie.net/forgottenrealms/images/2/2c/Manticore-AFR.jpg/revision/latest/scale-to-width-down/250?cb=20210704114242"
+  ],
+  [
+    "Minotaur",
+    {
+      "name": "Bull Rush",
+      "text": "That axe was not just for looks. That was not just for looks at all.",
+      "dmg": 34
+    },
+    "https://arcaneeye.com/wp-content/uploads/2021/04/wisnu-tan-rage-bellower-uplox.jpg"
+  ],
+  [
+    "Nightmare",
+    {
+      "name": "Unholy Trample",
+      "text": "The Nightmare charges through you as if you were tissue paper.",
+      "dmg": 34
+    },
+    "https://www.dndbeyond.com/avatars/thumbnails/0/273/1000/1000/636252769493472144.jpeg"
+  ],
+  [
+    "Owlbear",
+    {
+      "name": "Betrayal",
+      "text": "Owly is that you? Owly please...",
+      "dmg": 34
+    },
+    "https://angrygolem-games.com/wp-content/uploads/2020/09/owlbear.jpg"
+  ],
+  [
+    "Phase Spider",
+    {
+      "name": "Apparition Sting",
+      "text": "You lost track of the spider... The erie pain in your back reminds you where it went.",
+      "dmg": 34
+    },
+    "https://i.pinimg.com/564x/04/95/1e/04951e00c86237132cddc13d2f0e8c31.jpg"
+  ],
+  [
+    "Werewolf",
+    {
+      "name": "Infecting Bite",
+      "text": "The Werewolf sinks its fangs into your neck, as the full moon gets brighter, and brighter.",
+      "dmg": 34
+    },
+    "https://www.dandwiki.com/w/images/9/98/Werewolf_Splash.jpeg"
+  ],
+  [
+    "Wight",
+    {
+      "name": "Deft Strike",
+      "text": "The Wight is a better swordsman than you are. Much better.",
+      "dmg": 34
+    },
+    "https://www.dndbeyond.com/avatars/thumbnails/0/56/1000/1000/636252726349692861.jpeg"
+  ],
+  [
+    "Winter Wolf",
+    {
+      "name": "Freezing Bite",
+      "text": "The Wolf latches onto you, chilling your arm to the bone and through the blood.",
+      "dmg": 34
+    },
+    "https://www.dndbeyond.com/avatars/thumbnails/0/54/1000/1000/636252725270715296.jpeg"
+  ]
+]

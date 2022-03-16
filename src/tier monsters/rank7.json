@@ -1,0 +1,137 @@
+[
+  [
+    "Bone Devil",
+    {
+      "name": "Ossification",
+      "text": "The sting of the Devil turns your bones to cork",
+      "dmg": 74
+    },
+    "https://i.pinimg.com/originals/cb/53/bc/cb53bcf01ad71952eb67c7d8d3f32b1b.jpg"
+  ],
+  [
+    "Clay Golem",
+    {
+      "name": "Reflect",
+      "text": "You strike the Clay Golem and are swiftly knocked back by your own strike deflecting off of the creature.",
+      "dmg": 74
+    },
+    "https://1.bp.blogspot.com/-2HHH39Kmuuo/X_qd6bxIdjI/AAAAAAAAC20/53dYRhNLrtUiP6V7VeSnWP1f_7iL1MORQCLcBGAsYHQ/s499/adamantine%2Bgolem%2B3e.jpg"
+  ],
+  [
+    "Cloud Giant",
+    {
+      "name": "Crushing Spells",
+      "text": "You fend off spell after spell until the meteor comes. You didn't fend that one off.",
+      "dmg": 74
+    },
+    "https://www.dndbeyond.com/avatars/thumbnails/0/249/1000/1000/636252767619414260.jpeg"
+  ],
+  [
+    "Fire Giant",
+    {
+      "name": "Volcanic Assault",
+      "text": "With every strike, a fountain of lava engulfs you.",
+      "dmg": 74
+    },
+    "https://i.pinimg.com/originals/53/25/35/53253551fb8b689323395a781593d346.jpg"
+  ],
+  [
+    "Glabrezu",
+    {
+      "name": "Beat Down",
+      "text": "You let the Glabrezu snatch you, this won't end well.",
+      "dmg": 74
+    },
+    "https://www.dndbeyond.com/avatars/thumbnails/0/337/1000/1000/636252776677682465.jpeg"
+  ],
+  [
+    "Treant",
+    {
+      "name": "Wretched Vines",
+      "text": "A vine slips by you and wraps around your neck as the ground slowly drifts farther away.",
+      "dmg": 74
+    },
+    "https://i.ytimg.com/vi/HKZMlthhvCc/maxresdefault.jpg"
+  ],
+  [
+    "Aboleth",
+    {
+      "name": "Psychic Dredge",
+      "text": "You feel your mind slip out of this plane of existence. The ethereal pain comes next.",
+      "dmg": 74
+    },
+    "https://static.wikia.nocookie.net/forgottenrealms/images/5/58/Monster_Manual_5e_-_Aboleth_-p13.jpg/revision/latest?cb=20200313153917"
+  ],
+  [
+    "Deva",
+    {
+      "name": "Holy Mace",
+      "text": "The celestial mace meets your celestial face.",
+      "dmg": 74
+    },
+    "https://www.dndbeyond.com/avatars/thumbnails/0/267/1000/1000/636252768980059444.jpeg"
+  ],
+  [
+    "Stone Golem",
+    {
+      "name": "Slam",
+      "text": "The Stone Golem need not do more than merely fall upon you.",
+      "dmg": 74
+    },
+    "https://i.pinimg.com/564x/b8/e7/7e/b8e77ef84bc5cb647eb13255aff39950.jpg"
+  ],
+  [
+    "Behir",
+    {
+      "name": "Plasmitic Corrosion",
+      "text": "The serpent lays teeth in your flesh, oozing a corrosive plasma that devours your physical being.",
+      "dmg": 74
+    },
+    "https://i.ibb.co/RS32TX9/0000.jpg"
+  ],
+  [
+    "Djinni",
+    {
+      "name": "Whirling Dervish",
+      "text": "The mystical Djinni somehow appears behind you before assaulting you in a thousand slashes.",
+      "dmg": 74
+    },
+    "https://i.pinimg.com/originals/37/a7/a8/37a7a8ab2abc9b7b2149b82fb79ba4e8.png"
+  ],
+  [
+    "Efreeti",
+    {
+      "name": "Demonic Crush",
+      "text": "The Efreeti telekinetically pulls you into its blade, very, very, slowly.",
+      "dmg": 74
+    },
+    "https://pbs.twimg.com/media/CMyjv52VEAAmGGn.jpg:large"
+  ],
+  [
+    "Horned Devil",
+    {
+      "name": "Demon Commander",
+      "text": "The Horned Devil calls down a horde of imps to rend you asunder.",
+      "dmg": 74
+    },
+    "https://c4.wallpaperflare.com/wallpaper/841/895/743/demon-spear-fire-hell-wallpaper-preview.jpg"
+  ],
+  [
+    "Remorhaz",
+    {
+      "name": "Consume",
+      "text": "Into the belly of the beast.",
+      "dmg": 74
+    },
+    "https://i.pinimg.com/originals/48/bd/38/48bd3810b74a5c94ab3aa8f368dac077.jpg"
+  ],
+  [
+    "Roc",
+    {
+      "name": "Sky Bash",
+      "text": "A bird of unimaginable size grabs you and takes flight. The Roc releases you at an untennable height.",
+      "dmg": 74
+    },
+    "https://static.wikia.nocookie.net/dungeonsdragons/images/0/0d/Roc.jpg/revision/latest?cb=20120411235049"
+  ]
+]

@@ -1,0 +1,109 @@
+[
+  [
+    "Nalfeshnee",
+    {
+      "name": "Abominable Sunder",
+      "text": "The Nalfeshnee glares into your eyes as it disembowels you.",
+      "dmg": 74
+    },
+    "https://1.bp.blogspot.com/-hPLRT9ItxlU/XOnilJ5NvuI/AAAAAAAANfA/i2adFNtMmMUJ-4JFr12UaxZEA5-8b7xnACLcBGAs/s1600/Nalfeshnee.jpg"
+  ],
+  [
+    "Rakshasa",
+    {
+      "name": "Cunning Ploy",
+      "text": "You notice a pile of treasure on the floor and a sharp knife in your back",
+      "dmg": 74
+    },
+    "https://www.tribality.com/wp-content/uploads/2019/10/rakshasa-750x375.jpg"
+  ],
+  [
+    "Storm Giant",
+    {
+      "name": "Maelstrom",
+      "text": "Before you can react to the sight of a Storm Giant, a bolt of lightning streaks down through you.",
+      "dmg": 74
+    },
+    "https://www.aidedd.org/dnd/images/storm-giant-quintessent.jpg"
+  ],
+  [
+    "Vampire",
+    {
+      "name": "Entrapped",
+      "text": "You feel your free will leave as you willingly walk to your slaughter.",
+      "dmg": 74
+    },
+    "https://2.bp.blogspot.com/--GNxlsLnwT8/VATckZgX2qI/AAAAAAAACH0/BDAIdLbxKPw/s1600/vampire%2Band%2Bdragon.jpg"
+  ],
+  [
+    "Ice Devil",
+    {
+      "name": "Black Ice",
+      "text": "The Devil stabs you with a frozen lance... but you can't even feel it. Or anything.",
+      "dmg": 74
+    },
+    "https://i.pinimg.com/originals/cf/e2/7e/cfe27e2e8dff84bc97ab3ae2bdb77120.jpg"
+  ],
+  [
+    "Purple Worm",
+    {
+      "name": "Monstrous Devour",
+      "text": "You weren't even a noticeable snack.",
+      "dmg": 74
+    },
+    "https://i.ytimg.com/vi/cKmoN08PsEQ/maxresdefault.jpg"
+  ],
+  [
+    "Marilith",
+    {
+      "name": "Thousand Blades",
+      "text": "In a blinding flash you observe more fresh wounds than you have ever had in your life.",
+      "dmg": 74
+    },
+    "https://i.pinimg.com/originals/59/ca/f6/59caf6026b88ebdd8ff5f023d454a575.jpg"
+  ],
+  [
+    "Planetar",
+    {
+      "name": "Unholy Tear",
+      "text": "The Planetar has grabbed hold, and rips you apart one appendage at a time.",
+      "dmg": 74
+    },
+    "https://cdnb.artstation.com/p/assets/images/images/015/679/645/4k/sam-keiser-sam-keiser-planetar.jpg?1549227723"
+  ],
+  [
+    "Androsphinx",
+    {
+      "name": "Sky Drop",
+      "text": "Perhaps next time, a better answer to the riddles three.",
+      "dmg": 74
+    },
+    "https://external-preview.redd.it/kMuS8SK92fWy9_rpQ-h5v9YfoKfHNcxF2QRE6xU09yM.jpg?width=640&crop=smart&auto=webp&s=71d5066eae2dd5dc139a69eed95e6ce98ee3d47a"
+  ],
+  [
+    "Dragon Turtle",
+    {
+      "name": "Dragon Snap",
+      "text": "The Monstrous creature hardly noticed you were there, much less underfoot.",
+      "dmg": 74
+    },
+    "https://static.wikia.nocookie.net/criticalrole/images/f/f1/The_Dragon_Turtle_-_BlackSalander.jpg/revision/latest?cb=20200703040908"
+  ],
+    [
+    "Balor",
+    {
+      "name": "Demonic Compression",
+      "text": "The demon god breaks your mind and breaks your body.",
+      "dmg": 74
+    },
+    "https://i.pinimg.com/originals/f3/1f/3d/f31f3df1e859ccc975792152ef26e103.jpg"
+  ],
+    [
+    "Treasure Goblin",
+    {
+      "name": "Midas Clobber",
+      "text": "A bag of gold is only great when kinetic energy isn't involved.",
+      "dmg": 74
+    },
+    "https://cdna.artstation.com/p/assets/images/images/026/369/300/large/victor-moda-demon-mammon.jpg?1588602922&dl=1"
+]]
