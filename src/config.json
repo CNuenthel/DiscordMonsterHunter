@@ -1,0 +1,8 @@
+{
+  "bot_prefix": ".",
+  "token": "DISCORD BOT TOKEN GOES HERE",
+  "application_id": "DISCORD APP ID GOES HERE",
+  "owners": [
+    "OWNER NAME GOES HERE"
+  ]
+}
