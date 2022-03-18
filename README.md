@@ -8,7 +8,7 @@ I built this Bot to practice various aspects of Python while I studied the langu
 
 https://discord.gg/gzsv8emEak 
 
-Anyone is welcome to contribute, take, or review the code. 
+Anyone is welcome to contribute, take, or review the code, or just come play the game!
 
 ## **Setup**
 
@@ -33,22 +33,25 @@ Build your bot following the documentation
 Put in your bot token and app id. We are all done here. 
 
 ## **Bot Specifics**
-There are a lot of actions that a player can do, so much so that it is unsavory to combine shopping activities, with monster battling activities in the same channel, or else you will be in slow mode for time in memoriam. Activities must be individually channeled. Here is a list of required channels:
+There are a lot of actions that a player can do, so much so that it is unsavory to combine shopping activities, with monster battling activities in the same channel, or else you will be in slow mode for time in memoriam. Activities must be individually channeled. You **MUST** assign your desired channel ID to each of these channels. For example, you need a channel to use monster fighting commands such as .fight; so copy the ID of your "fight monsters" discord channel and set beyond_the_gates equal to that ID. Repeat for additional channels. Here is a list of required channels:
 
 - welcome = Intro channel where player training begins 
 - beyond_the_gates = Monster fighting channel 1 
-- beyond_the_battlefield = Monster fighting channel 2 
-- heart_of_the_maw = Monster fighting channel 3 
 - the_meadow = Location to fight very powerful secret boss 
 - general_chat = general chat... obviously 
 - the_shop = Item purchasing, selling 
 - raid_1 = Raid channel 1 
-- raid_2 = Raid channel 2 
-- raid_3 = Raid channel 3 
 - mixed_leaderboard = Leaderboard for raid stats across all classes 
 - class_leaderboard = Leaderboard for raid stats across individual classes
-- classes = Channel to describe in-game classes
+- classes = Channel to describe in-game classes (helpful information for players)
 
+These channels in the list are just additional channels that you can add if you would like additional channels for people to fight monsters. These are pretty good at reducing channel speeds when multiple players are fighting monsters in a single channel. They are not required to be active but are available if you'd like to use them.
+
+- beyond_the_battlefield = Monster fighting channel 2 
+- heart_of_the_maw = Monster fighting channel 3 
+- raid_2 = Raid channel 2 
+- raid_3 = Raid channel 3 
+- 
 ## **Setting Channels/Admin**
 File: main.py
 lines: 70-90
