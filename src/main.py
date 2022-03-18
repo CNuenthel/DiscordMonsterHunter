@@ -87,6 +87,8 @@ class_leaderboard = 0
 ideas_features = 0
 classes = 0
 
+# Admin
+admin = 0
 
 # Initialize functions _________________________________________________________________________________________________
 
@@ -2300,7 +2302,7 @@ async def summon_hero(ctx, name, class_):
             return
 
     for hero in HERO_LIST:
-        if hero.owner == ctx.message.author.id and ctx.message.author.id != 208970082594848771:
+        if hero.owner == ctx.message.author.id and ctx.message.author.id != admin:
             await ctx.send(block_text(f"You are already attuned to {hero.name}."))
             return
 
@@ -2371,7 +2373,7 @@ async def classes(ctx):
     """
     Admin use only
     """
-    if ctx.message.author.id == 208970082594848771:
+    if ctx.message.author.id == admin:
         def class_card_embed():
             base = discord.Embed(
                 title=f"__Tank__",
@@ -6658,7 +6660,7 @@ async def monastic_pilgrimage(ctx):
 
 @bot.command()
 async def give_gold(ctx, target, amount=100):
-    if ctx.message.author.id == 208970082594848771:
+    if ctx.message.author.id == admin:
         hero = get_hero(HERO_LIST, target.title())
         hero.gold += int(amount)
         await ctx.send(block_text(f"{target.title()} received {amount} gold!"))
@@ -6666,7 +6668,7 @@ async def give_gold(ctx, target, amount=100):
 
 @bot.command()
 async def clear(ctx, amount=1):
-    if ctx.message.author.id == 208970082594848771 or ctx.message.author.id == 895349269060542474:
+    if ctx.message.author.id == admin or ctx.message.author.id == 895349269060542474:
         await ctx.channel.purge(limit=amount)
     else:
         await ctx.send(block_text("No."))
@@ -6674,7 +6676,7 @@ async def clear(ctx, amount=1):
 
 @bot.command()
 async def save(ctx):
-    if ctx.message.author.id == 208970082594848771:
+    if ctx.message.author.id == admin:
         hero_name = set_hero_user(ctx.message.author.id)
         hero = get_hero(HERO_LIST, hero_name)
         save_hero(hero)
@@ -6683,7 +6685,7 @@ async def save(ctx):
 
 @bot.command()
 async def show_hero(ctx, hero_name, attributes=False):
-    if ctx.message.author.id == 208970082594848771:
+    if ctx.message.author.id == admin:
         if hero_name == "all":
             for hero in HERO_LIST:
                 await ctx.send(embed=show_hero_embed(hero))
@@ -6705,7 +6707,7 @@ async def show_hero(ctx, hero_name, attributes=False):
 
 @bot.command()
 async def shutdown(ctx):
-    if ctx.message.author.id == 208970082594848771:
+    if ctx.message.author.id == admin:
         for hero in HERO_LIST:
             with open(f"characters/{hero.name}.json", "w") as f:
                 json.dump(hero.__dict__, f, indent=2)
@@ -6729,7 +6731,7 @@ async def shutdown(ctx):
 
 @bot.command()
 async def show_monsters(ctx, list, target=None):
-    if ctx.message.author.id == 208970082594848771:
+    if ctx.message.author.id == admin:
         hero_name = set_hero_user(ctx.message.author.id)
         hero = get_hero(HERO_LIST, hero_name)
 
@@ -6755,19 +6757,19 @@ async def show_monsters(ctx, list, target=None):
 
 @bot.command()
 async def show_leaderboards(ctx):
-    if ctx.message.author.id == 208970082594848771:
+    if ctx.message.author.id == admin:
         await ctx.send(block_text(LEADERBOARD.__dict__))
 
 
 @bot.command()
 async def show_raids(ctx):
-    if ctx.message.author.id == 208970082594848771:
+    if ctx.message.author.id == admin:
         await ctx.send(block_text(list(MASTER_RAID_DICT.keys())))
 
 
 @bot.command(aliases=["stat"])
 async def set_stat(ctx, target, stat, value):
-    if ctx.message.author.id == 208970082594848771:
+    if ctx.message.author.id == admin:
         hero = get_hero(HERO_LIST, target.title())
         value = int(value)
         if stat.lower() not in ["atk", "def", "maxhp", "curhp", "maxep", "curep", "init"]:
@@ -6802,7 +6804,7 @@ async def set_stat(ctx, target, stat, value):
 
 @bot.command()
 async def add_item(ctx, target, item):
-    if ctx.message.author.id == 208970082594848771:
+    if ctx.message.author.id == admin:
         if target.title() not in [hero.name for hero in HERO_LIST]:
             await ctx.send(block_text("Target not found"))
             return
@@ -6819,8 +6821,8 @@ async def add_item(ctx, target, item):
 
 @bot.command()
 async def add_key(ctx, target, key):
-    if ctx.message.author.id == 208970082594848771:
-        if ctx.message.author.id == 208970082594848771:
+    if ctx.message.author.id == admin:
+        if ctx.message.author.id == admin:
             if target.title() not in [hero.name for hero in HERO_LIST]:
                 await ctx.send(block_text("Target not found"))
                 return
@@ -6836,8 +6838,8 @@ async def add_key(ctx, target, key):
 
 @bot.command()
 async def add_armory(ctx, target, equipment):
-    if ctx.message.author.id == 208970082594848771:
-        if ctx.message.author.id == 208970082594848771:
+    if ctx.message.author.id == admin:
+        if ctx.message.author.id == admin:
             if target.title() not in [hero.name for hero in HERO_LIST]:
                 await ctx.send(block_text("Target not found"))
                 return
@@ -6864,7 +6866,7 @@ async def add_armory(ctx, target, equipment):
 
 @bot.command()
 async def add_level(ctx, target, number_of_levels):
-    if ctx.message.author.id == 208970082594848771:
+    if ctx.message.author.id == admin:
         if target.title() not in [hero.name for hero in HERO_LIST]:
             await ctx.send(block_text("Target not found"))
             return
@@ -6879,12 +6881,12 @@ async def add_level(ctx, target, number_of_levels):
 
 @bot.command()
 async def show_global_status(ctx):
-    if ctx.message.author.id == 208970082594848771:
+    if ctx.message.author.id == admin:
         await ctx.send(block_text(GLOBAL_STATUS_DICT))
 
 @bot.command()
 async def add_ability(ctx, target, ability):
-    if ctx.message.author.id == 208970082594848771:
+    if ctx.message.author.id == admin:
         hero = get_hero(HERO_LIST, target.title())
         ability = ability.title()
         level_abilities = {
