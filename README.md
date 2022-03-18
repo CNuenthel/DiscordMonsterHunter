@@ -56,7 +56,7 @@ lines: 70-90
 Place discord channel id's for the channels specified in **Bot Specifics**, and set the admin variable to your discord id. There are a few channels left in the list, but they are not required to run the bot unless they are found in **Bot Specifics**.
 
 ## **Filling The Basics**
-To fill your classes channel, just go into the channel in discord and use the command *.classes*. This will fill the channel with embeds describing all the character classes. 
+To fill your classes channel, just go into the channel in discord and use the command *.classes*. This will fill the channel with embeds describing all the character classes. You must have admin set to your discord ID or this will not work.
 
 - Now you are ready to play!
 If you need any other help, come into https://discord.gg/gzsv8emEak and send a message to @Voodoo
