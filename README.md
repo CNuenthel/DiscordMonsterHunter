@@ -20,7 +20,8 @@ Build your bot following the documentation
 2. Keep track of your bot APP ID
 ___________________________________________________________________________________
 
-In config.json:
+In **config.json**:
+```json
 {
   "bot_prefix": ".",
   "token": "DISCORD BOT TOKEN GOES HERE",
@@ -29,7 +30,7 @@ In config.json:
     "OWNER NAME GOES HERE"
   ]
 }
-
+```
 Put in your bot token and app id. We are all done here. 
 
 **BOT SPECIFICS**
