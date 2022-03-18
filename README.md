@@ -36,16 +36,16 @@ Put in your bot token and app id. We are all done here.
 **BOT SPECIFICS**
 There are a lot of actions that a player can do, so much so that it is unsavory to combine shopping activities, with monster battling activities in the same channel, or else you will be in slow mode for time in memoriam. Activities must be individually channeled. Here is a list of required channels:
 
-welcome = Intro channel where player training begins
-beyond_the_gates = Monster fighting channel 1
-beyond_the_battlefield = Monster fighting channel 2
-heart_of_the_maw = Monster fighting channel 3
-the_meadow = Location to fight very powerful secret boss
-general_chat = general chat... obviously
-the_shop = Item purchasing, selling
-raid_1 = Raid channel 1
-raid_2 = Raid channel 2
-raid_3 = Raid channel 3
-mixed_leaderboard = Leaderboard for raid stats across all classes
-class_leaderboard = Leaderboard for raid stats across individual classes
-classes = Channel to describe in-game classes 
+welcome = Intro channel where player training begins \n
+beyond_the_gates = Monster fighting channel 1 \n
+beyond_the_battlefield = Monster fighting channel 2 \n
+heart_of_the_maw = Monster fighting channel 3 \n
+the_meadow = Location to fight very powerful secret boss \n
+general_chat = general chat... obviously \n
+the_shop = Item purchasing, selling \n
+raid_1 = Raid channel 1 \n
+raid_2 = Raid channel 2 \n
+raid_3 = Raid channel 3 \n
+mixed_leaderboard = Leaderboard for raid stats across all classes \n
+class_leaderboard = Leaderboard for raid stats across individual classes \n
+classes = Channel to describe in-game classes \n
