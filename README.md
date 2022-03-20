@@ -63,3 +63,5 @@ To fill your classes channel, just go into the channel in discord and use the co
 
 - Now you are ready to play!
 If you need any other help, come into https://discord.gg/gzsv8emEak and send a message to @Voodoo
+
+p.s. I could move the code around to make it a lot more organized, but honestly I've rewritten the entire program 3 times, and every time I learn 20 new things. I'll do it just one more time, but at this point the time/reward ratio is just not there.
