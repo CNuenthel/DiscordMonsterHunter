@@ -45,7 +45,7 @@ There are a lot of actions that a player can do, so much so that it is unsavory 
 - class_leaderboard = Leaderboard for raid stats across individual classes
 - classes = Channel to describe in-game classes (helpful information for players)
 
-These channels in the list are just additional channels that you can add if you would like additional channels for people to fight monsters. These are pretty good at reducing channel speeds when multiple players are fighting monsters in a single channel. They are not required to be active but are available if you'd like to use them.
+The following listed channels are available to add if you would like additional channels for people to fight monsters. These are pretty good at reducing channel speeds when multiple players are fighting monsters in a single channel. They are not required to be active but are available if you'd like to use them.
 
 - beyond_the_battlefield = Monster fighting channel 2 
 - heart_of_the_maw = Monster fighting channel 3 
