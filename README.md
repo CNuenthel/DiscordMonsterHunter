@@ -51,7 +51,7 @@ These channels in the list are just additional channels that you can add if you 
 - heart_of_the_maw = Monster fighting channel 3 
 - raid_2 = Raid channel 2 
 - raid_3 = Raid channel 3 
-- 
+
 ## **Setting Channels/Admin**
 File: main.py
 lines: 70-90
