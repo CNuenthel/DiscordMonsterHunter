@@ -12,9 +12,6 @@ class Leaderboard:
         self.dark_druid_leaders = []
         self.monk_leaders = []
 
-    def fill_board(self):
-        pass
-
     def check_leaderboard(self, raid, hero, time):
 
         def class_checks(board, raid, hero_stats):
