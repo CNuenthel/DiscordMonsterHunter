@@ -2,7 +2,7 @@
 Discord server based monster hunting RPG
 
 
-Discord Monster Hunter is a command bot designed to be run in a discord server that allows for the creation of heroes, with individual classes, to combat elevating tiers of monsters. DMH Bot offers items, equipment, a leveling system, class abilities, and endless fun. This was a year long project that was built and play tested by a small group over the course of a year. This project utilizes an older version of the Discord API that takes in textual commands and has not been updated to the new slash command system. 
+Discord Monster Hunter is a command bot designed to be run in a discord server that allows for the creation of heroes, with individual classes, to combat elevating tiers of monsters. DMH Bot offers items, equipment, a leveling system, class abilities, and endless fun. This was a year long project that was built and play tested by a small group over the course of a year. This project utilizes an older version of the Discord API that takes in prefix based textual commands and has not been updated to the new slash command system. 
 
 Anyone is welcome to contribute, take, or review the code. 
 
